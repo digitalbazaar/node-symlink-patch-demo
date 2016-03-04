@@ -1,7 +1,7 @@
 # node-symlink-patch-demo
 
 ## The Patch / Pull Request
-[link to PR]
+[https://github.com/nodejs/node/compare/v5.x...digitalbazaar:symlink?expand=1][]
 
 ## Installation
 ```
